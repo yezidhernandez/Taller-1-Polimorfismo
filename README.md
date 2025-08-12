@@ -1,4 +1,4 @@
 # Taller-1-Polimorfismo
 Desarrollado por:
-Yezid Hernández
+Yezid Hernández,
 Dayana Portilla
